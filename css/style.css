@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    color: rgb(223, 79, 103);
+  }
+
+  img {
+    max-width: 40%;
+    max-height: 40%;
+  }
+
+  .right-content{
+    background-color: rgb(229, 193, 231);
+    float: right;
+    width: 70%;
+  }
+  .left-content{
+    background-color: rgb(236, 150, 240);
+    float: left;
+    width: 30%;
+
+  }
