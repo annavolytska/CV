@@ -4,18 +4,55 @@
   }
 
   img {
-    max-width: 40%;
-    max-height: 40%;
+    max-width: 90%;
+    max-height: 90%;
   }
 
   .right-content{
+    padding-left: 2%;
     background-color: rgb(229, 193, 231);
     float: right;
-    width: 70%;
+    width: 68%;
   }
+
   .left-content{
+    padding-right: 5%;
     background-color: rgb(236, 150, 240);
     float: left;
-    width: 30%;
+    width: 25%;
 
+  }
+
+  .bar {
+    width: 100%;
+    background-color: #ddd;
+  }
+  
+  .skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  }
+  
+  .english {
+    width: 90%; background-color: #04AA6D;
+  }
+
+  .polish {
+    width: 90%; background-color: #2196F3;
+  }
+
+  .german {
+    width: 20%; background-color: #f44336;
+  }
+
+  .ukrainian {
+    width: 100%; background-color: #04AA6D;
+  }
+
+  .photo {
+    padding-left: 30%;
+    /* margin-right: auto; */
+    /* width: 70%; */
   }
